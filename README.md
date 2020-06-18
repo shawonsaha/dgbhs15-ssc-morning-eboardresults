@@ -1,6 +1,8 @@
-# SSC Individual DGBHS-15 Morning
+# SSC Result (Individual) DGBHS-15 Morning
 
-Filling the same filled every time is tedious. To automate that I have used a chrome extension called 'AutoFill'. Though Roll and Captcha had to fill up manually. Still, this extension saves a ton of time.
+*In this project I have collected each student's result of DGBHS-15 Morning from [eboardresults](https://eboardresults.com/) and automate heavy lifting work.*
+
+Filling the same filled every time is tedious. To automate that I have used 'AutoFill'. Though Roll and Captcha had to fill up manually. Still, this extension saves a ton of time.
 ![Putting query data](https://i.imgur.com/KPkGJHf.gif)
 
 Wish I could automate this part if there was no captcha
@@ -9,7 +11,7 @@ Wish I could automate this part if there was no captcha
 processed file will be store in 'renamed' folder
 ![Creating renamed folder](https://i.imgur.com/puPFndp.gif)
 
-###Task which I am going to automate
+**Task which I am going to automate**
 ![Manual work](https://i.imgur.com/OyOhqR1.gif)
 
 *copy foldername > enter into folder > rename html file to folder name > cut html file > paste into ./renamed directory*
